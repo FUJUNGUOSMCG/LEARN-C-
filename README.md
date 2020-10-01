@@ -1,2 +1,2 @@
-# LEARN-C-
-LEARN C# BEGIN FROM CODEING
+# LEARN-C#
+LEARN C# from Beginning.....
